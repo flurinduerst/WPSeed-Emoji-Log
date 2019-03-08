@@ -9,6 +9,7 @@ We all know that a well-crafted Git commit message is the best way to communicat
 When looking at a full page of git-commits it can be hard to get an overview of what was done. By using categorized emojis, we can quickly see what's going on. Instead of using [too many emojis](https://gitmoji.carloscuesta.me/) which takes too much time and leads to inconsistent usage, we're keeping the categories small and simple. Also there are some guidelines on how we write messages.
 
 ## EMOJI USAGE
+Always use one of the following emojis followed by the category in uppercase when writing a commit subject.
 
 Commit Type | Emoji / Example
 ----------  | --------------
@@ -21,18 +22,18 @@ DOC | 📖 DOC: Update Readme
 RELEASE | 🚀 RELEASE: 2.1.0 (also used for initializing a new repo)
 
 ## GENERAL GUIDELINES
-* **IMPERATIVE** ↓
+* **IMPERATIVE**
   - Make your Git commit messages imperative.
   - Write commit message like you're giving an order.
   - E.g., Use `Add` instead of `Added`.
   - E.g., Use `Create` instead of `Creating`.
-* **Limit the subject line to 50 characters** ↓
+* **Limit the subject line to 50 characters**
   - Keeping subject lines at this length ensures that they are readable.
 * **Capitalize the subject line**
   - Begin all subject lines with a capital letter. Write `Remove unused functions` instead of `remove unused functions`
-* **NO PERIOD** ↓
+* **NO PERIOD**
   - Do not end the subject line with a period. Trailing punctuation is unnecessary in subject lines.
-* **USE THE BODY IF NEEDED** ↓
+* **USE THE BODY IF NEEDED**
   - If the subject doesn't make 100% clear what was changed, and why, use the body to give context.
 
 ## 🏖 About
