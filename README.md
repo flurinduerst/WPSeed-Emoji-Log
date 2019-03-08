@@ -1,5 +1,5 @@
 ## WPSEED EMOJI LOG
-**Version 1.0.1** (08.03.2019)
+**Version 1.1.0** (08.03.2019)
 
 This is a git commit log standard called `WPSEED-EMOJI-LOG`
 
@@ -13,11 +13,12 @@ Always use one of the following emojis followed by the category in uppercase whe
 
 Commit Type | Emoji / Example
 ----------  | --------------
-NEW | 📦  NEW: add navigation html/css
-IMPROVE | 💎  IMPROVE: add animation for button hover state
-CLEANUP | ✨ CLEANUP: remove unused functions
-FIX | 🐛 FIX: position of submit button on mobile devices
-HOTFIX | 🚑 HOTFIX: remove faulty comment function - needs update for PHP7
+NEW | 📦  NEW: Add navigation html/css
+IMPROVE | 💎  IMPROVE: Add animation for button hover state
+CLEANUP | ✨ CLEANUP: Remove unused functions
+FIX | 🐛 FIX: Position of submit button on mobile devices
+HOTFIX | 🚑 HOTFIX: Remove faulty comment function - needs update for PHP7
+CONTENT | 📚 CONTENT: Rename strings at team-page
 DOC | 📖 DOC: Update Readme
 RELEASE | 🚀 RELEASE: 2.1.0 (also used for initializing a new repo)
 
