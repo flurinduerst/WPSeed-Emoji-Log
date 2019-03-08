@@ -21,6 +21,14 @@ HOTFIX | 🚑 HOTFIX: remove faulty comment function - needs update for PHP7
 DOC | 📖 DOC: Update Readme
 RELEASE | 🚀 RELEASE: 2.1.0 (also used for initializing a new repo)
 
+
+
+
+hint: use your Autocomplete Functions (Settings -> Keyoard -> Text on OSX) so you don't have to type/search the emojis:
+
+<img src="/assets/autocomplete" with="300">
+
+
 ## GENERAL GUIDELINES
 * **IMPERATIVE**
   - Make your Git commit messages imperative.
