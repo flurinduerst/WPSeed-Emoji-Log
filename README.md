@@ -37,4 +37,5 @@ RELEASE | 🚀 RELEASE: 2.1.0 (also used for initializing a new repo)
 
 ## 🏖 About
 Author: Flurin Dürst
+
 License: [WTFPL2](https://en.wikipedia.org/wiki/WTFPL)
