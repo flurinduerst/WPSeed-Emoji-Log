@@ -38,8 +38,6 @@ hint: use your Autocomplete Functions (Settings -> Keyoard -> Text on OSX) so yo
   - E.g., Use `Create` instead of `Creating`.
 * **Limit the subject line to 50 characters**
   - Keeping subject lines at this length ensures that they are readable.
-* **Capitalize the subject line**
-  - Begin all subject lines with a capital letter. Write `Remove unused functions` instead of `remove unused functions`
 * **NO PERIOD**
   - Do not end the subject line with a period. Trailing punctuation is unnecessary in subject lines.
 * **USE THE BODY IF NEEDED**
