@@ -19,6 +19,7 @@ CLEANUP | ✨ CLEANUP: remove unused functions
 FIX | 🐛 FIX: position of submit button on mobile devices
 HOTFIX | 🚑 HOTFIX: remove faulty comment function - needs update for PHP7
 CONTENT | 📚 CONTENT: rename strings at team-page
+COMPATIBILITY | 🧩 COMPATABILITY: add grid fallback for IE11
 DOC | 📖 DOC: Update readme
 RELEASE | 🚀 rELEASE: 2.1.0 (also used for initializing a new repo)
 
