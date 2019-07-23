@@ -1,5 +1,5 @@
 ## WPSEED EMOJI LOG
-**Version 1.2.0** (26.03.2019)
+**Version 1.3.0** (23.07.2019)
 
 This is a git commit log standard called `WPSEED-EMOJI-LOG`
 
@@ -20,7 +20,8 @@ FIX | 🐛 FIX: position of submit button on mobile devices
 HOTFIX | 🚑 HOTFIX: remove faulty comment function - needs update for PHP7
 CONTENT | 📚 CONTENT: rename strings at team-page
 DOC | 📖 DOC: Update readme
-RELEASE | 🚀 rELEASE: 2.1.0 (also used for initializing a new repo)
+ENVIRONMENT | ⚙️ ENV: Update package.json
+RELEASE | 🚀 RELEASE: 2.1.0 (also used for initializing a new repo)
 
 
 
